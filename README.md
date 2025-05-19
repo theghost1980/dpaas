@@ -1,7 +1,3 @@
-Claro, aquí tienes una **descripción detallada para el README** del proyecto DPaaS en español, explicando su propósito, funcionamiento, componentes y cómo se usa:
-
----
-
 # 🐝 DPaaS - Delegation Powered as a Service
 
 DPaaS es una propuesta de microservicio construida sobre la blockchain de Hive que permite ofrecer y consumir servicios digitales utilizando **delegaciones de Hive Power (HP)** como método de pago. Este enfoque busca expandir las formas de monetización en Web3 sin necesidad de tokens líquidos, incentivando el uso del poder de voto y la infraestructura descentralizada de Hive.
