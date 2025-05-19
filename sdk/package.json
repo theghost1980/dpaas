@@ -1,0 +1,19 @@
+{
+  "name": "dpaas-sdk",
+  "version": "0.1.0",
+  "description": "SDK para interactuar con la plataforma DPaaS",
+  "main": "dist/dpaas.js",
+  "types": "dist/dpaas.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["hive", "dpaas", "sdk"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "typescript": "^5.1.6"
+  }
+}

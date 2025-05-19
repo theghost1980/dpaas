@@ -1,0 +1,15 @@
+# Ignorar directorios de dependencias
+node_modules/
+
+# Ignorar directorios de compilación de TypeScript
+dist/
+
+# Ignorar logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
